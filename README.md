@@ -1,4 +1,4 @@
-# 1_ML_Foundations
+# ML Foundations
 
 Coursera Machine Learning Specialization [1/4]\
 Machine Learning Foundations: A Case Study Approach \
